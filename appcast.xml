@@ -3,6 +3,17 @@
   <channel>
     <title>Magic Wand</title>
     <item>
+      <title>Version 0.0.18</title>
+      <pubDate>Sat, 16 May 2026 21:24:13 +0000</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.0.18</sparkle:shortVersionString>
+      <enclosure
+        url="https://github.com/jaomelodev/Magic-Wand-releases/releases/latest/download/Magic-Wand.dmg"
+        sparkle:edSignature="kfbOvyl5/uqESVqS2UlaCKyL6ecBsnjhaLYONIQp/r1q7gH3+oDN9Pm34hdD42QI9sOUwh3XkMh1Wtc1vpVADw=="
+        length="8999043"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.0.17</title>
       <pubDate>Sat, 16 May 2026 19:42:03 +0000</pubDate>
       <sparkle:version>18</sparkle:version>
